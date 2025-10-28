@@ -50,8 +50,8 @@ Through this project, you’ll:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/differential-privacy-pydp.git
-cd differential-privacy-pydp
+git clone https://github.com/shallow-universe/Privacy-Preserving-Data-Analysis.git
+cd Privacy-Preserving-Data-Analysis
 ```
 
 ### 2️⃣ Install Dependencies
@@ -77,12 +77,12 @@ This project quantifies and visualizes how changing ε affects mean and count es
 
 ## 🧮 Example Results
 
-| Epsilon | True Mean Age | DP Mean Age | Absolute Error |
-|----------|----------------|--------------|----------------|
-| 0.1 | 38.58 | 43.21 | 4.63 |
-| 0.5 | 38.58 | 39.12 | 0.54 |
-| 1.0 | 38.58 | 38.90 | 0.32 |
-| 5.0 | 38.58 | 38.60 | 0.02 |
+| Epsilon  | True Mean Age | DP Mean Age | Absolute Error |
+|----------|---------------|-------------|----------------|
+| 0.1      | 38.58         | 43.21       | 4.63           |
+| 0.5      | 38.58         | 39.12       | 0.54           |
+| 1.0      | 38.58         | 38.90       | 0.32           |
+| 5.0      | 38.58         | 38.60       | 0.02           |
 
 ---
 
@@ -104,5 +104,5 @@ This project quantifies and visualizes how changing ε affects mean and count es
 ## 👨‍💻 Author
 
 **Kripansh Kumrawat**  
-📧 *[Your Email]*  
-💼 [LinkedIn](https://linkedin.com/in/kripanshkumrawat) | [GitHub](https://github.com/your-username)
+📧 *kripanshkumrawat@gmail.com*  
+💼 [LinkedIn](https://linkedin.com/in/kripansh29)
